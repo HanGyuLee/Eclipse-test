@@ -8,8 +8,14 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/apache-tomcat-8.0.37/lib/el-api.jar"/>
 	<classpathentry kind="lib" path="C:/apache-tomcat-8.0.37/lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="C:/apache-tomcat-8.0.37/lib/servlet-api.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/apache-tomcat-8.0.33/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-8.0.33/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-8.0.33/lib/servlet-api.jar"/>
+>>>>>>> branch 'master' of https://github.com/HanGyuLee/Eclipse-test.git
 	<classpathentry kind="output" path="build/WEB-INF/classes"/>
 </classpath>
